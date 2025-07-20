@@ -1,4 +1,6 @@
 <!-- hide -->
+
+Link de pull request: https://github.com/4GeeksAcademy/dev-ecg-excuses2/pull/new/newversion
 # Hello World with Vanilla JS
 
 > 🇪🇸 [Spanish version of this readme is available](./README.es.md).
